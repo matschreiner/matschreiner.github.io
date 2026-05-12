@@ -11,7 +11,12 @@
 - name: "Transition1x"
   description: "A dataset of ~10 million molecular configurations on and around reaction pathways for organic reactions, designed to train generalizable reactive ML potentials. Published in Scientific Data (Nature)."
   url: "https://github.com/matschreiner/Transition1x"
-  tags: ["Python", "Dataset", "PyTorch", "Chemistry"]
+  tags: ["Python", "Dataset", "Computational Chemistry", "DFT"]
+
+- name: "Equicast"
+  description: "A modular framework for developing and executing physical forecasting models, with decoupled components for model architecture, data pipeline, and training. Supports equivariant GNNs, message passing, and transformer architectures."
+  url: "https://github.com/matschreiner/equicast"
+  tags: ["Python", "PyTorch", "GNNs", "Weather Forecasting"]
 
 - name: "Pype"
   description: "A framework and CLI for programmatically generating configuration files and running versioned pipelines for machine learning projects."

@@ -327,8 +327,8 @@ ul {
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: var(--space-6);
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-4);
 }
 
 .project-card {
